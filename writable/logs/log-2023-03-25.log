@@ -1,0 +1,81 @@
+CRITICAL - 2023-03-25 14:45:00 --> Invalid file: "kelas/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('kelas/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('kelas/index', [], true)
+ 3 APPPATH\Controllers\KelasInput.php(11): view('kelas/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Kelasinput->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelasinput))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-25 14:45:39 --> Invalid file: "kelas/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('kelas/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('kelas/index', [], true)
+ 3 APPPATH\Controllers\KelasInput.php(11): view('kelas/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Kelasinput->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelasinput))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-25 14:45:49 --> Invalid file: "kelas/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('kelas/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('kelas/index', [], true)
+ 3 APPPATH\Controllers\KelasInput.php(11): view('kelas/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Kelasinput->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelasinput))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-25 14:47:05 --> Invalid file: "kelas/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('kelas/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('kelas/index', [], true)
+ 3 APPPATH\Controllers\KelasInput.php(11): view('kelas/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Kelasinput->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelasinput))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-25 14:47:06 --> Invalid file: "kelas/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('kelas/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('kelas/index', [], true)
+ 3 APPPATH\Controllers\KelasInput.php(11): view('kelas/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Kelasinput->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelasinput))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-25 14:47:21 --> Invalid file: "kelas/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('kelas/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('kelas/index', [], true)
+ 3 APPPATH\Controllers\KelasInput.php(11): view('kelas/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Kelasinput->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelasinput))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-25 14:47:22 --> Invalid file: "kelas/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('kelas/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('kelas/index', [], true)
+ 3 APPPATH\Controllers\KelasInput.php(11): view('kelas/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Kelasinput->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelasinput))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-25 14:47:54 --> Invalid file: "kelas/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('kelas/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('kelas/index', [], true)
+ 3 APPPATH\Controllers\KelasInput.php(11): view('kelas/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Kelasinput->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelasinput))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-25 14:47:54 --> Invalid file: "kelas/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('kelas/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('kelas/index', [], true)
+ 3 APPPATH\Controllers\KelasInput.php(11): view('kelas/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Kelasinput->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kelasinput))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
